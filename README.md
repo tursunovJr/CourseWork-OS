@@ -5,4 +5,4 @@
 ### Запуск
 + make - собрать проект
 + sudo insmod md.ko - загрузить модуль
-+ sudo dmesg -wH | grep "USB MODULE"
++ sudo dmesg -wH | grep "USB MODULE" - показать действвия связанные с этим модулем
