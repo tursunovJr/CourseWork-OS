@@ -63,10 +63,10 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.3}Пример работы}{13}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.4}Вывод}{13}{}%
+\contentsline {subsection}{\numberline {4.4}Вывод}{15}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Заключение}{14}{}%
+\contentsline {section}{Заключение}{16}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Список литературы}{15}{}%
+\contentsline {section}{Список литературы}{17}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Листинги}{16}{}%
+\contentsline {section}{Листинги}{18}{}%
