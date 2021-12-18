@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.3)  12 NOV 2021 16:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.3)  18 DEC 2021 13:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -862,17 +862,17 @@ Overfull \hbox (0.13573pt too wide) in paragraph at lines 123--124
  []
 
 
-Overfull \hbox (0.22702pt too wide) in paragraph at lines 127--128
+Overfull \hbox (0.22702pt too wide) in paragraph at lines 126--127
 []$[]$  
  []
 
 
-Overfull \hbox (15.75198pt too wide) in paragraph at lines 131--131
+Overfull \hbox (15.75198pt too wide) in paragraph at lines 130--130
  []$[]$ 
  []
 
 
-Overfull \hbox (2.59949pt too wide) in paragraph at lines 131--132
+Overfull \hbox (2.59949pt too wide) in paragraph at lines 130--131
  []$[]$ 
  []
 
@@ -882,141 +882,177 @@ Overfull \hbox (2.59949pt too wide) in paragraph at lines 131--132
 \tf@toc=\write4
 \openout4 = `document.toc'.
 
- [3] [4
+ [3] [4] [5
 
 ]
-Overfull \hbox (12.00546pt too wide) in paragraph at lines 192--193
+Overfull \hbox (12.00546pt too wide) in paragraph at lines 180--181
 []\T2A/cmr/m/n/10 Загружаемый мо-дуль пред-став-ля-ет со-бой спе-ци-аль-ный объ
 -ект-ный файл в фор-ма-те ELF (Executable
  []
 
-[5
+[6
 
-]
-Overfull \hbox (28.67783pt too wide) in paragraph at lines 216--217
-[]| \T2A/cmr/m/n/10 Су-ще-ству-ю-щие со-бы-тия: \T2A/cmr/m/it/10 USB_DEVICE_ADD
- \T2A/cmr/m/n/10 -- до-бав-ле-ние но-во-го устрой-ства, \T2A/cmr/m/it/10 USB_DE
-VICE_REMOVE
- []
-
-[6]
-Overfull \hbox (1.77916pt too wide) in paragraph at lines 248--249
+] [7]
+Overfull \hbox (11.77919pt too wide) in paragraph at lines 221--222
 []\T2A/cmr/m/it/10 ssize_t vfs_read(struct file* filp, char __user* buffer, siz
 e_t len, loff_t* pos)\T2A/cmr/m/n/10 , \T2A/cmr/m/it/10 ssize_t vfs_write(struc
 t
  []
 
-[7] (/usr/local/texlive/2021/texmf-dist/tex/latex/listings/lstlang1.sty
+[8] [9]
+Overfull \hbox (28.67783pt too wide) in paragraph at lines 274--275
+[]| \T2A/cmr/m/n/10 Су-ще-ству-ю-щие со-бы-тия: \T2A/cmr/m/it/10 USB_DEVICE_ADD
+ \T2A/cmr/m/n/10 -- до-бав-ле-ние но-во-го устрой-ства, \T2A/cmr/m/it/10 USB_DE
+VICE_REMOVE
+ []
+
+[10] [11]
+<idef0.png, id=54, 1606.0pt x 1067.99pt>
+File: idef0.png Graphic file (type png)
+<use idef0.png>
+Package pdftex.def Info: idef0.png  used on input line 295.
+(pdftex.def)             Requested size: 401.49902pt x 266.99684pt.
+<idef1.png, id=55, 1606.0pt x 1067.99pt>
+File: idef1.png Graphic file (type png)
+<use idef1.png>
+Package pdftex.def Info: idef1.png  used on input line 300.
+(pdftex.def)             Requested size: 401.49902pt x 266.99684pt.
+ [12
+
+ <./idef0.png (PNG copy)> <./idef1.png (PNG copy)>]
+(/usr/local/texlive/2021/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
 (/usr/local/texlive/2021/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 )
 LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
-278.
+308.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-) [8
-
-]
-<graph1.png, id=47, 1043.9pt x 953.5625pt>
+) [13]
+<graph1.png, id=65, 1043.9pt x 953.5625pt>
 File: graph1.png Graphic file (type png)
 <use graph1.png>
-Package pdftex.def Info: graph1.png  used on input line 314.
+Package pdftex.def Info: graph1.png  used on input line 344.
 (pdftex.def)             Requested size: 511.51547pt x 467.24973pt.
 
-Overfull \hbox (56.27136pt too wide) in paragraph at lines 314--315
+Overfull \hbox (56.27136pt too wide) in paragraph at lines 344--345
  [][] 
  []
 
-[9 <./graph1.png>]
-<graph2.png, id=52, 1044.90375pt x 869.2475pt>
+[14 <./graph1.png>]
+<graph2.png, id=70, 1044.90375pt x 869.2475pt>
 File: graph2.png Graphic file (type png)
 <use graph2.png>
-Package pdftex.def Info: graph2.png  used on input line 321.
+Package pdftex.def Info: graph2.png  used on input line 351.
 (pdftex.def)             Requested size: 501.54811pt x 417.23405pt.
 
-Overfull \hbox (46.304pt too wide) in paragraph at lines 321--322
+Overfull \hbox (46.304pt too wide) in paragraph at lines 351--352
  [][] 
  []
 
-[10
+[15
 
 
- <./graph2.png>] [11
+ <./graph2.png>]
+<shifr.png, id=75, 298.11375pt x 794.97pt>
+File: shifr.png Graphic file (type png)
+<use shifr.png>
+Package pdftex.def Info: shifr.png  used on input line 360.
+(pdftex.def)             Requested size: 128.1864pt x 341.83044pt.
+<passwoord.png, id=76, 359.3425pt x 472.76625pt>
+File: passwoord.png Graphic file (type png)
+<use passwoord.png>
+Package pdftex.def Info: passwoord.png  used on input line 367.
+(pdftex.def)             Requested size: 172.48244pt x 226.92522pt.
+<po.png, id=77, 502.87875pt x 713.66624pt>
+File: po.png Graphic file (type png)
+<use po.png>
+Package pdftex.def Info: po.png  used on input line 374.
+(pdftex.def)             Requested size: 301.72957pt x 428.20305pt.
+ [16
 
-] [12]
-<1.png, id=63, 1949.2825pt x 993.7125pt>
+ <./shifr.png> <./passwoord.png>] [17 <./po.png>]
+[18
+
+] [19]
+Overfull \hbox (29.14195pt too wide) in paragraph at lines 495--496
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[20] [21] [22]
+<1.png, id=103, 1949.2825pt x 993.7125pt>
 File: 1.png Graphic file (type png)
 <use 1.png>
-Package pdftex.def Info: 1.png  used on input line 388.
+Package pdftex.def Info: 1.png  used on input line 607.
 (pdftex.def)             Requested size: 389.8496pt x 198.73897pt.
- [13
+ [23
 
  <./1.png>]
-<2.png, id=69, 1948.27875pt x 996.72375pt>
+<2.png, id=108, 1948.27875pt x 996.72375pt>
 File: 2.png Graphic file (type png)
 <use 2.png>
-Package pdftex.def Info: 2.png  used on input line 396.
+Package pdftex.def Info: 2.png  used on input line 615.
 (pdftex.def)             Requested size: 389.64885pt x 199.34122pt.
-<3.png, id=70, 1937.2375pt x 986.68625pt>
+<3.png, id=109, 1937.2375pt x 986.68625pt>
 File: 3.png Graphic file (type png)
 <use 3.png>
-Package pdftex.def Info: 3.png  used on input line 402.
+Package pdftex.def Info: 3.png  used on input line 621.
 (pdftex.def)             Requested size: 387.44064pt x 197.33376pt.
- [14
+ [24
 
  <./2.png> <./3.png>]
-<4.png, id=76, 1957.3125pt x 996.72375pt>
+<4.png, id=115, 1957.3125pt x 996.72375pt>
 File: 4.png Graphic file (type png)
 <use 4.png>
-Package pdftex.def Info: 4.png  used on input line 410.
+Package pdftex.def Info: 4.png  used on input line 629.
 (pdftex.def)             Requested size: 391.45557pt x 199.34122pt.
-<5.png, id=77, 1958.31625pt x 991.705pt>
+<5.png, id=116, 1958.31625pt x 991.705pt>
 File: 5.png Graphic file (type png)
 <use 5.png>
-Package pdftex.def Info: 5.png  used on input line 416.
+Package pdftex.def Info: 5.png  used on input line 635.
 (pdftex.def)             Requested size: 391.65631pt x 198.33748pt.
- [15
+ [25
 
- <./4.png> <./5.png>] [16
+ <./4.png> <./5.png>] [26
 
 ]
-Overfull \hbox (5.72414pt too wide) in paragraph at lines 437--444
+Overfull \hbox (5.72414pt too wide) in paragraph at lines 655--662
 \T2A/cmr/m/n/10 [2]  Ана-то-мия за-гру-жа-е-мых мо-ду-лей яд-ра Linux // https:
 //www.ibm.com/developerworks/ru/library/l-
  []
 
 
-Overfull \hbox (5.55751pt too wide) in paragraph at lines 437--444
+Overfull \hbox (5.55751pt too wide) in paragraph at lines 655--662
 \T2A/cmr/m/n/10 [3]  Notification Chains in Linux Kernel// https://0xax.gitbook
 s.io/linux-insides/content/Concepts/linux-
  []
 
 
-Overfull \hbox (2.75264pt too wide) in paragraph at lines 437--444
+Overfull \hbox (2.75264pt too wide) in paragraph at lines 655--662
 \T2A/cmr/m/n/10 [4]  include/linux/usb.h// https://elixir.bootlin.com/linux/lat
 est/source/include/linux/usb.hL2020(дата
  []
 
 
-Overfull \hbox (31.63448pt too wide) in paragraph at lines 437--444
+Overfull \hbox (31.63448pt too wide) in paragraph at lines 655--662
 \T2A/cmr/m/n/10 [6]  Invoking user-space applications from the kernel // https:
 //developer.ibm.com/technologies/linux/articles/l-
  []
 
 
-Overfull \hbox (47.93605pt too wide) in paragraph at lines 437--444
+Overfull \hbox (47.93605pt too wide) in paragraph at lines 655--662
 \T2A/cmr/m/n/10 [7]  Reading and writing of files in Linux kernel driver // htt
 ps://www.programmersought.com/article/83015124510/
  []
 
-[17
+[27
 
-] [18
+] [28
 
-] [19] [20] [21] [22] [23] [24] [25] [26] (./document.aux)
+] [29] [30] [31] [32] (./document.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -1034,13 +1070,13 @@ Package logreq Info: Writing requests to 'document.run.xml'.
 ### simple group (level 1) entered at line 14 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 13854 strings out of 478994
- 232967 string characters out of 5858184
- 1059658 words of memory out of 5000000
- 31145 multiletter control sequences out of 15000+600000
+ 13896 strings out of 478994
+ 233445 string characters out of 5858184
+ 1066660 words of memory out of 5000000
+ 31182 multiletter control sequences out of 15000+600000
  424358 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 73i,8n,74p,1050b,5346s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 73i,8n,74p,1744b,5348s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm
 -super-t2a.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/
 sfbi1000.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sf
@@ -1058,10 +1094,10 @@ al/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local
 /texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/t
 exlive/2021/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/tex
 live/2021/texmf-dist/fonts/type1/public/cm-super/sftt0800.pfb>
-Output written on document.pdf (26 pages, 1949758 bytes).
+Output written on document.pdf (32 pages, 2168868 bytes).
 PDF statistics:
- 171 PDF objects out of 1000 (max. 8388607)
- 109 compressed objects within 2 object streams
+ 198 PDF objects out of 1000 (max. 8388607)
+ 122 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
 

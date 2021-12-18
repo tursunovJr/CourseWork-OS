@@ -1,72 +1,74 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \babel@toc {russian}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Введение}{4}{}%
+\contentsline {section}{Введение}{5}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1}Аналитическая часть}{5}{}%
+\contentsline {section}{\numberline {1}Аналитический раздел}{6}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.1}Постановка задачи}{5}{}%
+\contentsline {subsection}{\numberline {1.1}Постановка задачи}{6}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.2}Загружаемый модуль ядра}{5}{}%
+\contentsline {subsection}{\numberline {1.2}Загружаемый модуль ядра}{6}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.3}Уведомления в ядре Linux}{5}{}%
+\contentsline {subsection}{\numberline {1.3}Адресное пространство USB-устройств}{6}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.3.1}Уведомители}{5}{}%
+\contentsline {subsection}{\numberline {1.4}Хранение информации о доступных USB-устройствах}{7}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.3.2}Уведомитель изменений на USB портах}{6}{}%
+\contentsline {subsection}{\numberline {1.5}Анализ обеспечения дополнительной защиты}{7}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.4}Хранение информации о доступных USB-устройствах}{6}{}%
+\contentsline {subsection}{\numberline {1.6}Чтение и запись файлов в пространстве ядра}{8}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.5}Вызов приложения пользовательского пространства из ядра}{6}{}%
+\contentsline {subsection}{\numberline {1.7}Анализ методов шифрования информации}{8}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.6}Чтение и запись файлов в пространстве ядра}{6}{}%
+\contentsline {subsubsection}{\numberline {1.7.1}Cимметричное шифрование}{8}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.7}Основные используемые структуры}{7}{}%
+\contentsline {subsubsection}{\numberline {1.7.2}Аcимметричное шифрование}{9}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.7.1}usb\_device}{7}{}%
+\contentsline {subsubsection}{\numberline {1.7.3}Хеширование}{9}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.7.2}usb\_device\_id}{7}{}%
+\contentsline {subsection}{\numberline {1.8}Перехват сообщения о событиях в ядре}{10}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.8}Вывод}{7}{}%
+\contentsline {subsubsection}{\numberline {1.8.1}Уведомители}{10}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}Конструкторская часть}{8}{}%
+\contentsline {subsubsection}{\numberline {1.8.2}Уведомитель изменений на USB портах}{10}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1}Перехват сообщений}{8}{}%
+\contentsline {subsection}{\numberline {1.9}Анализ передачи данных из пространства ядра в пространство пользователя}{10}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2}Хранение информации}{8}{}%
+\contentsline {subsection}{\numberline {1.10}Вывод}{11}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3}Алгоритм работы функции-обработчика}{8}{}%
+\contentsline {section}{\numberline {2}Конструкторский раздел}{12}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.4}Алгоритм шифрования файла}{10}{}%
+\contentsline {subsection}{\numberline {2.1}Перехват сообщений}{12}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.5}Вывод}{10}{}%
+\contentsline {subsection}{\numberline {2.2}Хранение информации}{13}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Технологическая часть}{11}{}%
+\contentsline {subsection}{\numberline {2.3}Алгоритм работы уведомителя}{13}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1}Стек технологий}{11}{}%
+\contentsline {subsection}{\numberline {2.4}Алгоритм шифрования файла}{15}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2}Хранение данных}{11}{}%
+\contentsline {subsection}{\numberline {2.5}Алгоритм определние ключа}{16}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3}Загружаемый модуль}{11}{}%
+\contentsline {subsection}{\numberline {2.6}Структура программного обеспечения}{17}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4}Функиция-обработчик}{11}{}%
+\contentsline {section}{\numberline {3}Технологический раздел}{18}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.5}Идентификация устройства}{11}{}%
+\contentsline {subsection}{\numberline {3.1}Выбор языка и среды разработки}{18}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.6}Вывод}{12}{}%
+\contentsline {subsection}{\numberline {3.2}Структура хранение данных}{18}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Исследовательская часть }{13}{}%
+\contentsline {subsection}{\numberline {3.3}Функиция реализующая алгоритм работы уведомителя}{18}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1}Системные характеристики}{13}{}%
+\contentsline {subsection}{\numberline {3.4}Функция реализующая алгоритм шифрования}{20}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2}Постановка эксперимента}{13}{}%
+\contentsline {section}{\numberline {4}Исследовательский раздел }{23}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3}Пример работы}{13}{}%
+\contentsline {subsection}{\numberline {4.1}Системные характеристики}{23}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.4}Вывод}{15}{}%
+\contentsline {subsection}{\numberline {4.2}Постановка эксперимента}{23}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Заключение}{16}{}%
+\contentsline {subsection}{\numberline {4.3}Пример работы}{23}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Список литературы}{17}{}%
+\contentsline {section}{Заключение}{26}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Листинги}{18}{}%
+\contentsline {section}{Список литературы}{27}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Листинг}{28}{}%
